@@ -1,0 +1,2 @@
+# BK8000L-Bluetooth-Audio-Projects
+A Few Different Project that will utilise the BK8000L Bluetooth Audio Component-PCB, including a 'wireless' Bluetooth heatset with very high quality Microphone and Converting a Small 20 Watt Computer 2.1 Sound Box (Subwoofer and 2 Satelite Speakers for treble) into a Bluetooth Wireless Stand-alone Unit without needing wires to connect to the Computer of any other Bluetooth Audio Device :)
